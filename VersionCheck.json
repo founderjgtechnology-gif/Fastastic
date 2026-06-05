@@ -1,6 +1,6 @@
  {
     "ios": {
-      "forceUpdate": true,
+      "forceUpdate": false,
       "minimumVersion": "1.0.0",
       "minimumBuildNumber": 0,
       "message": "Please update Fastastic to resume functionality.",
