@@ -1,7 +1,7 @@
  {
     "ios": {
       "forceUpdate": true,
-      "minimumVersion": "1.0.1",
+      "minimumVersion": "1.0.0",
       "minimumBuildNumber": 0,
       "message": "Please update Fastastic to resume functionality.",
       "storeUrl": "https://apps.apple.com/app/idYOUR_APP_ID"
